@@ -1,0 +1,13 @@
+# executables
+a.out
+gradebook
+
+# Object files
+*.o
+
+# build directory
+build/
+
+# vim  files
+*.swp
+*~
